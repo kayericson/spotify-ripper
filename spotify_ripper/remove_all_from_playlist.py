@@ -3,8 +3,8 @@ import spotipy.client
 import os
 
 redirect_uri = 'http://www.purple.com'
-client_id = '736cdf54a1e145a6ab60e971ab2ed7e8'
-client_secret = 'a15f04dc0d164035945b78064d01028c'
+client_id = ''
+client_secret = ''
 scope = 'playlist-modify-public playlist-modify-private playlist-read-collaborative'
 
 # client_id = os.environ["SPOTIPY_CLIENT_ID"] 
